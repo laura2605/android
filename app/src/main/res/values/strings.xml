@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pflanzenbewässerung</string>
+    <string name="fewWater">Wenig</string>
+    <string name="mediumWater">Mittel</string>
+    <string name="muchWater">Viel</string>
+    <string name="infoText">Wie viel Wasser benötigt die Pflanze?"</string>
+    <string name="connectionErrorText">Verbindungsfehler"</string>
+    <string name="bluetoothDenied">"Bluetooth nicht aktiviert"</string>
+</resources>
